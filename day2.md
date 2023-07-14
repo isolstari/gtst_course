@@ -10,7 +10,7 @@ Users communicate with the kernel by the *shell* it although called interpreter.
 -FISH
 **based on their feature**
 *they differ in colouring ,Piping,command compilation, some kind of features*
-#What is OS- Operating system??
+## What is OS- Operating system??
 means the main software part of computer that helps to work on
 **It contains:
 ○ Kernel
