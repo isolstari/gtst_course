@@ -1,9 +1,9 @@
-#Introduction 
+# Introduction 
 **Kernel**
  is a code/program that used to meet your Software and Hardware
-#shell
+# shell
 Users communicate with the kernel by the #shell# it although called interpreter.
-##types of shells
+## types of shells
 ○ SH
 ○ BASH
 ○ ZSH
@@ -22,22 +22,22 @@ means the main software part of computer that helps to work on
 	● Animations
 	● High Graphics
 	● Quality**
-##*why linux is fast*
+## *why linux is fast*
 **Linux distributions are more efficiently developed**so it is most used
-##*why linux is better for hacking*
+## *why linux is better for hacking*
 **It is bootable from a USB, 
 without installing it on the system.
 There are Linux operating systems designed for the sole purpose of penetration testing and hacking.
 It is free and open source.
 Linux can run without GUI.
 There is availability of hacking tools and scripts.**
-##*why is Linux More Secure Than Windows?*
+## *why is Linux More Secure Than Windows?*
 **-User Permissions
 -Software Installation
 -Open Source
 -Updates
 -Security through obscurity**
-##**Linux distributions/distro**
+## **Linux distributions/distro**
 ● Distro is Modified Linux Kernels,type of operating systems with different
 Example 
 Debian
