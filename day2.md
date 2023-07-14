@@ -4,10 +4,10 @@
 # shell
 Users communicate with the kernel by the *shell* it although called interpreter.
 ## types of shells
--SH
--BASH
--ZSH
--FISH
+- SH
+- BASH
+- ZSH
+- FISH
 **based on their feature**
 *they differ in colouring ,Piping,command compilation, some kind of features*
 ## What is OS- Operating system??
