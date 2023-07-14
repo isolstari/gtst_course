@@ -2,7 +2,7 @@
 **Kernel**
  is a code/program that used to meet your Software and Hardware
 # shell
-Users communicate with the kernel by the # shell # it although called interpreter.
+Users communicate with the kernel by the *shell* it although called interpreter.
 ## types of shells
 -SH
 -BASH
