@@ -1,8 +1,8 @@
-# **Linux File Hierarchy.**
+# ** Linux File Hierarchy . **
 *● Linux/UNIX have a special file system than windows.*
 *● Windows: System files appear under the local disk C:*
 *● Linux: System files appear under the root directory ( / )*
-## **File structure**
+## ** File structure**
 **1) / ( root )**
 ○ Every single file and directory starts from the root directory.
 ○ The only root user has the right to write under this directory.
