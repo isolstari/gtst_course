@@ -1,4 +1,4 @@
-Some advanced user commands
+fore better experiance open in Some advanced user commands visual code stidio 
 ● To change password of user
 		**sudo passwd username**
 ● To change user id
